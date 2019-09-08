@@ -1,7 +1,7 @@
 # PythonPong
 Game Ping Pong Made Using Python3 by @sulton.exe
 
-About The Game
+About The Game <br>
 Name : Ping Pong Game
 Made with : Python Programming Language
 Dev : @sulton.exe
