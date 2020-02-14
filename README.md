@@ -11,10 +11,10 @@ Version : 0.1 <br>
 <br>
 # About Me :  
 Name : Sulton <br>
-From : Indonesia <br>
+From : Surabaya, Indonesia <br>
 <br>
 # Follow My Media
-IG : @sulton.exe <br>
+<img src="https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2019/12/Instagram-123-696x392.jpg" height="100px" width="100px"> : @sulton.exe <br>
 FB : SultonExe <br>
 
 #### <br>
